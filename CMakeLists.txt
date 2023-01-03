@@ -1,0 +1,1 @@
+add_executable(uc-server uc-server.c)
